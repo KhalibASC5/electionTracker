@@ -19,10 +19,11 @@ html {
     height: 700px;
  }
  .card{
- background-color: rgb(77, 77, 223);
+ background-color: rgb(38, 116, 189);
+ border: none;
  }
  .card2{
-    background-color:  rgb(255, 0, 0);
+    background-color:  rgb(202, 59, 59);
  }
  .card-title{
     text-align: center;
